@@ -16,5 +16,6 @@ tr:nth-child(even) {
 
 .tabla{
     width: 80%;
+    overflow: hidden;
     margin: auto;    
 }
