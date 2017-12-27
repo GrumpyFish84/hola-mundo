@@ -14,3 +14,8 @@ td, th {
 tr:nth-child(even) {
     background-color: #dddddd;
 }
+
+.tabla{
+    width: 100%;
+    margin: auto;    
+}
