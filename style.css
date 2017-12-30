@@ -1,21 +1,15 @@
 table {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
-    width: 80%;
-}
-
-td, th {
-    border: 2px solid #dddddd;
+    border: 1px dotted black;
     text-align: center;
-    padding: 5px;
+    font-family: Helvetica;
 }
 
-tr:nth-child(even) {
-    background-color: #dddddd;
+th {
+    font-size: 18px;
 }
 
-.tabla{
-    width: 80%;
-    overflow: hidden;
-    margin: auto;    
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 14px;
 }
